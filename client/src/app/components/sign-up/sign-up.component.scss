@@ -1,0 +1,31 @@
+.title {
+  font-size: large;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.card {
+  width: 230px;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-button {
+  width: 90%;
+}
+
+.credentials {
+  width: 90%;
+}
