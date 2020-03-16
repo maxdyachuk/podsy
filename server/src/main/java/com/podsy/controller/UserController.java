@@ -1,6 +1,5 @@
 package com.podsy.controller;
 
-import com.podsy.dto.UserDto;
 import com.podsy.entity.User;
 import com.podsy.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
